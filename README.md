@@ -1,5 +1,4 @@
-# HDbml
-## Haskell Database Markup Language
+# HDbml - Haskell Database Markup Language
 
 This is a Haskell implementation of DBML (Database Markup Language) - a DSL used for defining
 database schemas and structures. The reference implementation is written in Javascript and can be
